@@ -1,5 +1,5 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+task #3 of JPMC's Forage program
 
 ## To Run
 1.  Install the necessary dependencies by running `npm install` from the project repo
